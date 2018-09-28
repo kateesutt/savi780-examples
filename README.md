@@ -1,2 +1,3 @@
-# savi780-examples
-examples given by my professor in SAVI 780
+# leaflet-dropdown
+
+Create a map with Leaflet and dropdown filter
